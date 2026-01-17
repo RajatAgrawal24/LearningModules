@@ -1,0 +1,150 @@
+[submodule "01_python_strings/task_collections_string"]
+	path = 01_python_strings/task_collections_string
+	url = https://github.com/RajatAgrawal24/task_collections_string.git
+[submodule "02_python_collections/task_collections_list"]
+	path = 02_python_collections/task_collections_list
+	url = https://github.com/RajatAgrawal24/task_collections_list.git
+[submodule "03_python_dictionary/task_collections_dict"]
+	path = 03_python_dictionary/task_collections_dict
+	url = https://github.com/RajatAgrawal24/task_collections_dict.git
+[submodule "04_python_decorator_generator/task_decorator_genarator"]
+	path = 04_python_decorator_generator/task_decorator_genarator
+	url = https://github.com/RajatAgrawal24/task_decorator_genarator.git
+[submodule "05_python_oops/task_oops"]
+	path = 05_python_oops/task_oops
+	url = https://github.com/RajatAgrawal24/task_oops.git
+[submodule "06_frontend_capstone_project/responsive-interactive-web"]
+	path = 06_frontend_capstone_project/responsive-interactive-web
+	url = https://github.com/RajatAgrawal24/responsive-interactive-web.git
+[submodule "07_python_collections/Task_1_1_Collections"]
+	path = 07_python_collections/Task_1_1_Collections
+	url = https://github.com/RajatAgrawal24/Task_1_1_Collections.git
+[submodule "08_product_inventory_management/1.2-product-inventory-management"]
+	path = 08_product_inventory_management/1.2-product-inventory-management
+	url = https://github.com/RajatAgrawal24/1.2-product-inventory-management.git
+[submodule "09_encapsulate_personal_info/1.3-encapsulate-personal-information"]
+	path = 09_encapsulate_personal_info/1.3-encapsulate-personal-information
+	url = https://github.com/RajatAgrawal24/1.3-encapsulate-personal-information.git
+[submodule "10_abstraction_for_payment/1.4-abstraction-for-payment-methods"]
+	path = 10_abstraction_for_payment/1.4-abstraction-for-payment-methods
+	url = https://github.com/RajatAgrawal24/1.4-abstraction-for-payment-methods.git
+[submodule "11_polymorphism_in_animals/1.5-polymorphism-in-animals"]
+	path = 11_polymorphism_in_animals/1.5-polymorphism-in-animals
+	url = https://github.com/RajatAgrawal24/1.5-polymorphism-in-animals.git
+[submodule "12_polymorphism_in_transportation/2.3-polymorphism-in-transportation"]
+	path = 12_polymorphism_in_transportation/2.3-polymorphism-in-transportation
+	url = https://github.com/RajatAgrawal24/2.3-polymorphism-in-transportation.git
+[submodule "14_basic_string_manipulation/1.1-basic-string-manipulation"]
+	path = 14_basic_string_manipulation/1.1-basic-string-manipulation
+	url = https://github.com/RajatAgrawal24/1.1-basic-string-manipulation.git
+[submodule "15_string_reverse/1.2-string-reverse-using-stringbuilder"]
+	path = 15_string_reverse/1.2-string-reverse-using-stringbuilder
+	url = https://github.com/RajatAgrawal24/1.2-string-reverse-using-stringbuilder.git
+[submodule "16_duplicate_strings/2.3-detect-and-handle-duplicate-strings"]
+	path = 16_duplicate_strings/2.3-detect-and-handle-duplicate-strings
+	url = https://github.com/RajatAgrawal24/2.3-detect-and-handle-duplicate-strings.git
+[submodule "17_text_compression/3.1-text-compression-simulation"]
+	path = 17_text_compression/3.1-text-compression-simulation
+	url = https://github.com/RajatAgrawal24/3.1-text-compression-simulation.git
+[submodule "18_division_by_zero/1.1-handle-division-by-zero-using-try-catch-finally"]
+	path = 18_division_by_zero/1.1-handle-division-by-zero-using-try-catch-finally
+	url = https://github.com/RajatAgrawal24/1.1-handle-division-by-zero-using-try-catch-finally.git
+[submodule "19_validate_user_age/1.2-validate-user-age-input-with-custom-exception"]
+	path = 19_validate_user_age/1.2-validate-user-age-input-with-custom-exception
+	url = https://github.com/RajatAgrawal24/1.2-validate-user-age-input-with-custom-exception.git
+[submodule "20_file_reading_with_checked_exceptions/2.1-file-reading-with-checked-exception-handling"]
+	path = 20_file_reading_with_checked_exceptions/2.1-file-reading-with-checked-exception-handling
+	url = https://github.com/RajatAgrawal24/2.1-file-reading-with-checked-exception-handling.git
+[submodule "21_simulate_banking_transactions/2.2-simulate-banking-transaction-with-throws-and-unchecked-exception"]
+	path = 21_simulate_banking_transactions/2.2-simulate-banking-transaction-with-throws-and-unchecked-exception
+	url = https://github.com/RajatAgrawal24/2.2-simulate-banking-transaction-with-throws-and-unchecked-exception.git
+[submodule "22_print_an_arraylist_of_employee_names/1.1-iterate-and-print-an-arraylist-of-employee-names"]
+	path = 22_print_an_arraylist_of_employee_names/1.1-iterate-and-print-an-arraylist-of-employee-names
+	url = https://github.com/RajatAgrawal24/1.1-iterate-and-print-an-arraylist-of-employee-names.git
+[submodule "23_unique_city_names/1.2-basic-hashset-for-unique-city-names"]
+	path = 23_unique_city_names/1.2-basic-hashset-for-unique-city-names
+	url = https://github.com/RajatAgrawal24/1.2-basic-hashset-for-unique-city-names.git
+[submodule "24_basic_queue_implemetation/1.3-basic-queue-implementation-for-customer-support"]
+	path = 24_basic_queue_implemetation/1.3-basic-queue-implementation-for-customer-support
+	url = https://github.com/RajatAgrawal24/1.3-basic-queue-implementation-for-customer-support.git
+[submodule "25_linkedlist_as_a_todo_list/1.4-linkedlist-as-a-to-do-list"]
+	path = 25_linkedlist_as_a_todo_list/1.4-linkedlist-as-a-to-do-list
+	url = https://github.com/RajatAgrawal24/1.4-linkedlist-as-a-to-do-list.git
+[submodule "26_hashmap_for_student_grades/1.5-basic-hashmap-for-student-grades"]
+	path = 26_hashmap_for_student_grades/1.5-basic-hashmap-for-student-grades
+	url = https://github.com/RajatAgrawal24/1.5-basic-hashmap-for-student-grades.git
+[submodule "27_spliterator_example/2.1-spliterator-example-with-a-product-list"]
+	path = 27_spliterator_example/2.1-spliterator-example-with-a-product-list
+	url = https://github.com/RajatAgrawal24/2.1-spliterator-example-with-a-product-list.git
+[submodule "28_linkedlist_for_maintaining_order/2.2-linkedhashset-for-maintaining-order"]
+	path = 28_linkedlist_for_maintaining_order/2.2-linkedhashset-for-maintaining-order
+	url = https://github.com/RajatAgrawal24/2.2-linkedhashset-for-maintaining-order.git
+[submodule "29_priority_queue_for_task_scheduling/3.4-priorityqueue-for-task-scheduling"]
+	path = 29_priority_queue_for_task_scheduling/3.4-priorityqueue-for-task-scheduling
+	url = https://github.com/RajatAgrawal24/3.4-priorityqueue-for-task-scheduling.git
+[submodule "30_custom_sorting_with_comparable_interface/3.5-custom-sorting-with-comparable"]
+	path = 30_custom_sorting_with_comparable_interface/3.5-custom-sorting-with-comparable
+	url = https://github.com/RajatAgrawal24/3.5-custom-sorting-with-comparable.git
+[submodule "31_comparator_for_sorting_employee_code/2.5-comparator-for-sorting-employee-records"]
+	path = 31_comparator_for_sorting_employee_code/2.5-comparator-for-sorting-employee-records
+	url = https://github.com/RajatAgrawal24/2.5-comparator-for-sorting-employee-records.git
+[submodule "32_treemap_for_students_data/2.3-treemap-for-sorted-student-data"]
+	path = 32_treemap_for_students_data/2.3-treemap-for-sorted-student-data
+	url = https://github.com/RajatAgrawal24/2.3-treemap-for-sorted-student-data.git
+[submodule "33_array_deque_for_browser_hostory/2.4-arraydeque-for-browser-history-simulation"]
+	path = 33_array_deque_for_browser_hostory/2.4-arraydeque-for-browser-history-simulation
+	url = https://github.com/RajatAgrawal24/2.4-arraydeque-for-browser-history-simulation.git
+[submodule "34_iterator_for_removing_elements/3.1-iterator-for-removing-elements"]
+	path = 34_iterator_for_removing_elements/3.1-iterator-for-removing-elements
+	url = https://github.com/RajatAgrawal24/3.1-iterator-for-removing-elements.git
+[submodule "35_treeset_for_sorted_product_data/3.2-treeset-for-sorted-product-data"]
+	path = 35_treeset_for_sorted_product_data/3.2-treeset-for-sorted-product-data
+	url = https://github.com/RajatAgrawal24/3.2-treeset-for-sorted-product-data.git
+[submodule "36_linkedhashmap_for_caching_system/3.3-linkedhashmap-for-caching-system"]
+	path = 36_linkedhashmap_for_caching_system/3.3-linkedhashmap-for-caching-system
+	url = https://github.com/RajatAgrawal24/3.3-linkedhashmap-for-caching-system.git
+[submodule "37_filter_even_number_using_lambda_expressions/1.1-filter-even-numbers-using-lambda-expressions"]
+	path = 37_filter_even_number_using_lambda_expressions/1.1-filter-even-numbers-using-lambda-expressions
+	url = https://github.com/RajatAgrawal24/1.1-filter-even-numbers-using-lambda-expressions.git
+[submodule "38_check_string_length_using_predicate/1.2-check-string-length-using-predicate"]
+	path = 38_check_string_length_using_predicate/1.2-check-string-length-using-predicate
+	url = https://github.com/RajatAgrawal24/1.2-check-string-length-using-predicate.git
+[submodule "39_generate_random_no_using_supplier/1.3-generate-random-numbers-using-supplier"]
+	path = 39_generate_random_no_using_supplier/1.3-generate-random-numbers-using-supplier
+	url = https://github.com/RajatAgrawal24/1.3-generate-random-numbers-using-supplier.git
+[submodule "40_string_to_uppercase_using_function/1.4-transform-strings-to-uppercase-using-function"]
+	path = 40_string_to_uppercase_using_function/1.4-transform-strings-to-uppercase-using-function
+	url = https://github.com/RajatAgrawal24/1.4-transform-strings-to-uppercase-using-function.git
+[submodule "41_optional_for_avoiding_nullpointer_exception/1.5-optional-for-avoiding-nullpointerexception"]
+	path = 41_optional_for_avoiding_nullpointer_exception/1.5-optional-for-avoiding-nullpointerexception
+	url = https://github.com/RajatAgrawal24/1.5-optional-for-avoiding-nullpointerexception.git
+[submodule "42_filter_employee_names_using_stream/2.1-filter-and-collect-employee-names-using-streams"]
+	path = 42_filter_employee_names_using_stream/2.1-filter-and-collect-employee-names-using-streams
+	url = https://github.com/RajatAgrawal24/2.1-filter-and-collect-employee-names-using-streams.git
+[submodule "43_chaining_customers_to_process_data/2.2-chaining-consumers-to-process-data"]
+	path = 43_chaining_customers_to_process_data/2.2-chaining-consumers-to-process-data
+	url = https://github.com/RajatAgrawal24/2.2-chaining-consumers-to-process-data.git
+[submodule "44_map_and_reduce_using_streams/2.3-map-and-reduce-using-streams"]
+	path = 44_map_and_reduce_using_streams/2.3-map-and-reduce-using-streams
+	url = https://github.com/RajatAgrawal24/2.3-map-and-reduce-using-streams.git
+[submodule "45_combine_predicates_for_complex_conditions/2.4-combine-predicates-for-complex-conditions"]
+	path = 45_combine_predicates_for_complex_conditions/2.4-combine-predicates-for-complex-conditions
+	url = https://github.com/RajatAgrawal24/2.4-combine-predicates-for-complex-conditions.git
+[submodule "46_flatmap_for_nested_list/2.5-flatmap-for-nested-list-processing"]
+	path = 46_flatmap_for_nested_list/2.5-flatmap-for-nested-list-processing
+	url = https://github.com/RajatAgrawal24/2.5-flatmap-for-nested-list-processing.git
+[submodule "47_optional_based_user_auth/3.1-optional-based-user-authentication"]
+	path = 47_optional_based_user_auth/3.1-optional-based-user-authentication
+	url = https://github.com/RajatAgrawal24/3.1-optional-based-user-authentication.git
+[submodule "48_parallel_streams_for_performance_optimizations/3.2-parallel-streams-for-performance-optimization"]
+	path = 48_parallel_streams_for_performance_optimizations/3.2-parallel-streams-for-performance-optimization
+	url = https://github.com/RajatAgrawal24/3.2-parallel-streams-for-performance-optimization.git
+[submodule "49_custom_functional_interface_for_data_validation/3.3-custom-functional-interface-for-data-validation"]
+	path = 49_custom_functional_interface_for_data_validation/3.3-custom-functional-interface-for-data-validation
+	url = https://github.com/RajatAgrawal24/3.3-custom-functional-interface-for-data-validation.git
+[submodule "50_group_employees_by_department_using_streams/3.4-group-employees-by-department-using-streams"]
+	path = 50_group_employees_by_department_using_streams/3.4-group-employees-by-department-using-streams
+	url = https://github.com/RajatAgrawal24/3.4-group-employees-by-department-using-streams.git
+[submodule "51_pipeline_for_data_processing/3.5-build-a-pipeline-for-data-processing"]
+	path = 51_pipeline_for_data_processing/3.5-build-a-pipeline-for-data-processing
+	url = https://github.com/RajatAgrawal24/3.5-build-a-pipeline-for-data-processing.git
